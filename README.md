@@ -1,6 +1,6 @@
 # 1.1 // Objetos, Estado e Comportamento
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório:_ <about:blank>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório:_ <https://classroom.github.com/a/ITNwjmZS>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
