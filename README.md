@@ -1,12 +1,12 @@
-# 1.1 // Objetos, Estado e Comportamento
+# 1.1 // Objetos, Estado e Comportamento // Máquina D'água
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório:_ <https://classroom.github.com/a/ITNwjmZS>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <https://classroom.github.com/a/ITNwjmZS>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
 **Tópicos desta atividade:** abstrações, classes, objetos, construtores, validade, atributos, estado, comportamento, comandos e consultas, excepcionalidades e especificações.
 
-## Máquina D'água
+---
 
 Considere um máquina de água sofisticada. Ela é abastecida com uma Bombona de _20L_ e sempre que isso é realizado, um botão _abastecer água_ é pressionado, efetuando o _reset_ do contador para _20L_ (ou _20000mL_) disponíveis. A máquina também armazena internamente os copos descartáveis, com capacidades para _200mL_ e _300mL_, com um repositório de 100 unidades para cada. Feito os abastecimentos, os usuários servem-se de água pressionando os botões que servem _200mL_ ou _300mL_. A máquina automaticamente saca um copo e o enche de água. A máquina mostra no painel a quantidade de água e copos disponíveis. O pedido não é atendido quando um botão _servir_ é pressionado e não há água ou copo.
 
@@ -125,6 +125,6 @@ System.out.println(maq.agua() == 4000);
 System.out.println(maq.copos200() == 80);
 System.out.println(maq.copos300() == 97);
 ```
----
 
+---
 Obs.: os casos de teste não podem ser alterados, mas outros podem ser adicionados. Fique a vontade para adicionar códigos que imprimem ou separam os testes, por exemplo.
