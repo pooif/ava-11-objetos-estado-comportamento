@@ -1,6 +1,6 @@
 # 1.1 // Objetos, Estado e Comportamento // Máquina D'água
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <https://classroom.github.com/a/ITNwjmZS>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <[https://classroom.github.com/a/ITNwjmZS](https://classroom.github.com/a/y8Xw87CC)>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
